@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Type another little line on main
+=======
+Type a little line on feature
+>>>>>>> aeae04b (Type a little line on feature)
